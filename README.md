@@ -36,21 +36,8 @@ This project helps build a solid understanding of how a differential amplifier w
 
 ---
 
-## 📁 Files
 
-- Schematic files (`.sch`)
-- Simulation results (plots, waveforms, screenshots)
-- Optional calculation notes
 
----
 
-## 📝 Notes
 
-This design is ideal for students learning:
-- Differential signal processing
-- Basic biasing methods for analog circuits
-- Small-signal analysis for gain and CMRR
 
----
-
-**Happy learning & simulating! ⚡✨**
